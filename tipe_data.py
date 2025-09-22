@@ -1,4 +1,4 @@
-# Tipe data pada python
+# Tipe data
 # 1. Integer (int) = Bilangan Bulat
 # 2. Float - Bilangan Desimal ( ada komanya )
 # 3. String (str) = Teks
@@ -89,3 +89,44 @@ print(type(is_active))
 print(type(tinggi_badan))
 print(type(pesan))
 ####################### END CARA MENGECEK TIPE DATA  #######################
+
+
+# HASIL
+
+# ======= TIPE DATA INTEGER =======
+# # Contoh bilangan bulat positif dan negatif ( int )
+# 25
+# 1998
+# -50000
+# 0
+# # Contoh bilangan besar ( python bisa handle angka sangat besar )
+# 780000000000
+# 1234567890987766542134556689901298715
+# ======= TIPE DATA FLOAT =======
+# # Bilangan dengan koma
+# 300000000.0
+# 3.14159
+# # Notasi Scientific
+# 300000000.0
+# ======= TIPE DATA STRING =======
+# # String dengan double qoutes
+# Jl. Merdeka No. 123
+# Selamat datang di python
+# # String dengan triple qoutes ( Multi-line )
+
+# Hallo saya adalah AI
+# kenapa anda membutuhkan saya ?
+# tolong jawab !
+
+# ======= TIPE DATA BOOLEAN =======
+# # Boolean values
+# # Kondisi penulisan harus menggunakan huruf besar pada boolean True / False
+# False
+# True
+# True
+# ======= CARA MENGECEK TIPE DATA =======
+# # Tipe Data
+# <class 'int'>
+# <class 'bool'>
+# <class 'float'>
+# <class 'str'>
