@@ -11,7 +11,7 @@ tahun_lahir = 1998
 saldo = -50000
 nol = 0
 print("======= TIPE DATA INTEGER =======")
-print("# Contoh bilangan bulat positif dan negatif ( int )")
+print("Contoh bilangan bulat positif dan negatif ( int )")
 print(umur)
 print(tahun_lahir)
 print(saldo)
@@ -21,7 +21,7 @@ print(nol)
 # Contoh bilangan besar ( python bisa handle angka sangat besar )
 populasi_dunia = 780000000000
 angka_besar = 1234567890987766542134556689901298715
-print("# Contoh bilangan besar ( python bisa handle angka sangat besar )")
+print("Contoh bilangan besar ( python bisa handle angka sangat besar )")
 print(populasi_dunia)
 print(angka_besar)
 ####################### END INTEGER ( int ) #######################

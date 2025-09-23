@@ -19,3 +19,7 @@ umur = 23  # tipe data int
 
 pesan = "Nama saya : " + nama + "Umur saya : " + str(umur)
 print(pesan)
+
+############################################################################################
+# Panjang string
+# Gunakan len() untuk mengetahui panjang string
